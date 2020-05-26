@@ -1,5 +1,5 @@
-Django>=2.1.11
-# postgres
+Django==2.1.11
+postgres
 psycopg2-binary==2.8.3
 # test and cov
 coverage==4.5.2
